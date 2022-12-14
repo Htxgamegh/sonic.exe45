@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AI.png"><SubTexture name="AI idle0000" x="6552" y="3192" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI idle0001" x="6552" y="4788" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI idle0002" x="0" y="6384" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI idle0003" x="6552" y="4788" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI idle0004" x="6552" y="3192" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0000" x="0" y="0" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0001" x="0" y="1596" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0002" x="3276" y="0" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0003" x="3276" y="1596" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0004" x="0" y="3192" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0005" x="3276" y="3192" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0006" x="0" y="4788" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0007" x="3276" y="4788" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0008" x="6552" y="0" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0009" x="6552" y="1596" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0010" x="3276" y="6384" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0011" x="6552" y="1596" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0012" x="6552" y="0" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0013" x="3276" y="4788" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0014" x="0" y="4788" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0015" x="3276" y="3192" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0016" x="0" y="3192" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0017" x="3276" y="1596" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0018" x="3276" y="0" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0019" x="0" y="1596" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+<SubTexture name="AI fire0020" x="0" y="0" width="3276" height="1596" frameX="0" frameY="0" frameWidth="3276" frameHeight="1596" />
+</TextureAtlas>
