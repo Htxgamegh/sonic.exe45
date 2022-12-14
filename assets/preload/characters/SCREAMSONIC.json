@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SCREAMSONIC idle"
+		},
+		{
+			"offsets": [
+				180,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SCREAMSONIC right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SCREAMSONIC",
+	"position": [
+		130,
+		85
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		0,
+		168
+	],
+	"camera_position": [
+		-50,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

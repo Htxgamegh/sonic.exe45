@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1200,
+				430
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NormalGreen idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1080,
+				470
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dark",
+			"indices": [],
+			"name": "NormalGreen dark"
+		},
+		{
+			"offsets": [
+				1200,
+				430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "uno",
+			"loop": true,
+			"name": "NormalGreen uno"
+		},
+		{
+			"offsets": [
+				1200,
+				430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dos",
+			"loop": true,
+			"name": "NormalGreen dos"
+		},
+		{
+			"offsets": [
+				1200,
+				430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "tres",
+			"loop": true,
+			"name": "NormalGreen tres"
+		},
+		{
+			"offsets": [
+				1200,
+				430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cuatro",
+			"loop": true,
+			"name": "NormalGreen cuatro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NormalGreen",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

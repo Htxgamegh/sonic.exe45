@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NormalSonic idle"
+		},
+		{
+			"offsets": [
+				20,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NormalSonic left"
+		},
+		{
+			"offsets": [
+				-68,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NormalSonic right"
+		},
+		{
+			"offsets": [
+				4,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NormalSonic up"
+		},
+		{
+			"offsets": [
+				-54,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NormalSonic down"
+		},
+		{
+			"offsets": [
+				21,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tras",
+			"indices": [],
+			"name": "NormalSonic tras"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NormalSonic",
+	"position": [
+		730,
+		85
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		118,
+		226
+	],
+	"camera_position": [
+		-260,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

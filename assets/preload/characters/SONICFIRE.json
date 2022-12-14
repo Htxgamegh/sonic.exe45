@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICEXE idle"
+		},
+		{
+			"offsets": [
+				180,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICEXE left"
+		},
+		{
+			"offsets": [
+				-160,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICEXE right"
+		},
+		{
+			"offsets": [
+				-20,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICEXE down"
+		},
+		{
+			"offsets": [
+				15,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICEXE up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "derecha risa",
+			"fps": 15,
+			"name": "SONICEXE derecha risa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "izquierda risa",
+			"fps": 15,
+			"name": "SONICEXE izquierda risa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-66
+			],
+			"anim": "risa",
+			"fps": 24,
+			"name": "SONICEXE laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SONICFIRE",
+	"position": [
+		-50,
+		85
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		0,
+		168
+	],
+	"camera_position": [
+		-50,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
